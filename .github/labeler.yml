@@ -1,0 +1,6 @@
+"package: app_close":
+  - "double-back-to-close"
+"package: package_info":
+  - "package-info"
+"package: no_screenshot":
+  - "no-screenshot"
