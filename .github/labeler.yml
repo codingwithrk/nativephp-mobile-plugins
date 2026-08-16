@@ -4,3 +4,5 @@
   - "package-info"
 "package: no_screenshot":
   - "no-screenshot"
+"package: firebase_crashlytics":
+  - "firebase-crashlytics"

@@ -12,6 +12,7 @@ body:
         - double-back-to-close
         - package-info
         - no-screenshot
+        - firebase-crashlytics
     validations:
       required: true
 
