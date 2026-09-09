@@ -6,3 +6,5 @@
   - "no-screenshot"
 "package: firebase_crashlytics":
   - "firebase-crashlytics"
+"package: nativephp_datetime_picker":
+  - "nativephp-datetime-picker"
