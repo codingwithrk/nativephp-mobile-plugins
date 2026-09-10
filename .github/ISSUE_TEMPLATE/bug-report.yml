@@ -13,6 +13,7 @@ body:
         - package-info
         - no-screenshot
         - firebase-crashlytics
+        - nativephp-datetime-picker
     validations:
       required: true
 
