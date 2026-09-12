@@ -8,3 +8,5 @@
   - "firebase-crashlytics"
 "package: nativephp_datetime_picker":
   - "nativephp-datetime-picker"
+"package: nativephp_social_auth":
+  - "nativephp-social-auth"

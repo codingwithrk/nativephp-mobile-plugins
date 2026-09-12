@@ -1,6 +1,6 @@
 # NativePHP mobile plugins
 
-Public assets, issues, bugs 🐞 report for NativePHP mobile plugins
+Public assets, issues, bugs 🐞 report for [NativePHP](https://nativephp.com/) mobile plugins
 
 ## Free Packages
 
@@ -11,6 +11,7 @@ Public assets, issues, bugs 🐞 report for NativePHP mobile plugins
 | Press back twice to close | Prompts users to press back twice before exiting the app.                                                   | [GitHub](https://github.com/codingwithrk/double-back-to-close) | [NativePHP](https://nativephp.com/plugins/codingwithrk/double-back-to-close) |
 | Firebase Crashlytics | Provides integration with Firebase Crashlytics for crash reporting and analytics.                           | [GitHub](https://github.com/codingwithrk/firebase-crashlytics)  | [NativePHP](https://nativephp.com/plugins/codingwithrk/firebase-crashlytics)  |
 | NativePHP Datetime Picker | Native date, time and datetime picker for NativePHP Mobile.                         | [GitHub](https://github.com/codingwithrk/nativephp-datetime-picker)  | [NativePHP](https://nativephp.com/plugins/codingwithrk/nativephp-datetime-picker)  |
+| NativePHP Social Auth | Native Apple Sign-In and Google Sign-In for NativePHP Mobile apps.                        | [GitHub](https://github.com/codingwithrk/nativephp-social-auth)  | [NativePHP](https://nativephp.com/plugins/codingwithrk/nativephp-social-auth)  |
 
 ## Reporting Issues
 
